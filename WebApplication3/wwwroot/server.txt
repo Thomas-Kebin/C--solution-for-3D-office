@@ -1,0 +1,5 @@
+ftps://waws-prod-ln1-013.ftp.azurewebsites.windows.net/site/wwwroot
+inigmademo-a\$inigmademo-a
+LrgqPlzQ86TBaAn2XuGpE3D0PbubGs1Thd3WfZriL39iutj5n7MegxxH45Dl
+
+https://inigmademo-a.azurewebsites.net
